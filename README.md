@@ -1,4 +1,0 @@
-vdr-vnsiserver
-==============
-
-vdr-vnsiserver
